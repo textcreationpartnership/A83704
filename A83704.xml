@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eight antiqueries in answer to the author of the eight quæries: proposed to all true lovers of their country and parliaments, and conscientious souldiers in the army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83704</idno>
+            <idno type="STC">Wing E258</idno>
+            <idno type="STC">Thomason E393_37</idno>
+            <idno type="STC">ESTC R201613</idno>
+            <idno type="EEBO-CITATION">99862113</idno>
+            <idno type="PROQUEST">99862113</idno>
+            <idno type="VID">114262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114262)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eight antiqueries in answer to the author of the eight quæries: proposed to all true lovers of their country and parliaments, and conscientious souldiers in the army.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Prynne, William. VIII queries upon the late declarations of, and letters from, the army (Wing P3949).</note>
+                  <note>Annotation on Thomason copy: "June 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  VIII queries upon the late declarations of, and letters from, the army --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114262:1"/>
+            <!-- PDF PAGE 91 -->
+            <pb facs="tcp:114262:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>EIGHT ANTIQUERIES IN ANSWER To the Author of the Eight Quaeries: Propoſed to all true lovers of their Coun<g ref="char:EOLhyphen"/>try and Parliaments, and conſcientious Souldiers in the ARMY.</p>
+            <q>
+               <bibl>1 THESS. 5.21.</bibl>
+               <p>Try all things, and held faſt that which is good.</p>
+            </q>
+            <q>
+               <bibl>JER. 5.1.</bibl>
+               <p>Run to and fro in the ſtreets of Jeruſalem, and ſee now, &amp; know, and ſeek in the broad places thereof, if yee can finde a man, if there be any that executeth Judgement, that ſeeketh the truth, and I will pardon it.</p>
+            </q>
+            <p>
+               <hi>LONDON, Printed for</hi> GILES CALVERT, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:114262:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <head>EIGHT ANTIQUAERIES In Anſwer To the Authour of the Eight Quaeries.</head>
+            <p n="1">
+               <label>1. Antiquaerie.</label>
+               <lb/>
+WHether this nameleſſe Author of theſe Queries, be a man of a right Chriſtian, and truely charitable ſpirit who raiſeth up ſuch groundleſſe and cauſeleſſe jealouſies and ſuſpitions of a whole <hi>well-minded and well-meaning Army,</hi> who both have and doe hazzard their lives for the publick good and ſafety againſt the enemies thereof, ſo as all their carriages from the beginning hitherto, have been ſo or<g ref="char:EOLhyphen"/>derly and uniforme, as all circumſtances well-weighed, doe not admit of the leaſt crimination of their worſt enemies. And therefore, whe<g ref="char:EOLhyphen"/>ther ſuch a Chriſtian Armies <hi>Pretences,</hi> compared with their conſtant practiſes, are likely to prove ſuch, as that of a curſed heathen hypo<g ref="char:EOLhyphen"/>crite <hi>Haza<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> 2 <hi>King.</hi> 8.12, 13. And whether no <hi>religious and ſpecious pretences</hi> can carry with them <hi>reall intentions,</hi> as that all Chriſtian pro<g ref="char:EOLhyphen"/>feſſion were meere hypocriſie, and diſſimulation. And whether ſuch in the Army, whoſe conſcience is not perſwaded by clear evidence of Scripture; of the lawfulneſſe of Baptizing of Infants, and whoſe con<g ref="char:EOLhyphen"/>verſation hath been, and is blameleſſe, and who have adventured their lives for their Country, as farre as any other, are likely to prove ſuch as thoſe <hi>Anabaptiſts in Germany,</hi> in <hi>Luthers</hi> time, who denyed all civill Authority, which theſe doe not, but ſacrifice their lives for it.</p>
+            <p n="2">
+               <label>2 Antiquaerie.</label>
+               <lb/>
+Whether the nameleſſe Author, confeſſing the Armies <hi>dutifulneſſe, and meritoriouſneſſe,</hi> be not very raſh in this Quaerie, as unreaſonable in the firſt, in charging the Army with ſuch a <hi>diſtemper, as over-ruling their Generall and Officers,</hi> touching the <hi>removeall of the Kings Perſon;</hi>
+               <pb n="3" facs="tcp:114262:2"/>
+               <!-- PDF PAGE 92 -->and whether this Author ought not to have ſuſpended this prejudice, unt<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the truth of the cauſe were tryed. And whether the <hi>Armies marching up, be againſt the Parliament,</hi> becauſe againſt a party and facti<g ref="char:EOLhyphen"/>on in the Parliament; and whether this be a <hi>diſ-engagement of the Peo<g ref="char:EOLhyphen"/>ple. City, and Kingdome from the Parliament,</hi> any more then the Parli<g ref="char:EOLhyphen"/>ments indevouring to regulate the Kings evill Counſellors, and Mini<g ref="char:EOLhyphen"/>ſters, was a <hi>diſ-engageing of the People, City, and Kingdome from, or an engageing of them againſt the Kings</hi> Perſon, <hi>contrary to their Solemne Co<g ref="char:EOLhyphen"/>venant;</hi> and whether <hi>the Armies refuſall to disband</hi> at this time, was not neceſſary for the Kingdomes both <hi>eaſe and peace,</hi> if that charge of theirs, againſt thoſe in the Houſe ſhall upon juſt triall finde them ſuch, as are neither for the <hi>Kingdomes eaſe, and peace.</hi> And whether the Ar<g ref="char:EOLhyphen"/>my doe in this, act by their <hi>own meer power and will,</hi> when many Coun<g ref="char:EOLhyphen"/>ties in the Kingdome, that (for their neerneſſe) beſt underſtand the carriage of things above, have Petitioned the Generall not to disband till things be better reformed, and whether in all this (for <hi>Vox populi, Vox Dei,</hi> the Peoples voyce is Gods voyce) the righteous God hath not put that miraculouſly unanimous ſpirit, into the heart of the whole Army for the good of the whole Nation (whoſe Protector and Pre<g ref="char:EOLhyphen"/>ſerver God is) to ſtand in the gap, and to call for juſtice, the want whereof ruines Kingdomes and States, and provokes the wrath of Heaven againſt a land; and whether in this caſe, all the Counties, and Countries in the Kingdome, be not bound to manifeſt their aſſent here<g ref="char:EOLhyphen"/>in with the Army, and to ſtand by them, if they finde their truſt be<g ref="char:EOLhyphen"/>trayed: and whether it may not be ſaid of this Army in this buſineſſe, as to <hi>Heſter</hi> of old, Who knoweth whether this Army be raiſed up of God, not onely to ſubdus open enemies,<note place="margin">
+                  <hi>Heſt.</hi> 4.14.</note> but to be inſtruments of bringing lurking Traito<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and underminers of the Common-weale to condigne puniſhment, ſeeing deſparate maladies muſt have deſperate remedies. And whether this Author can deviſe any means under the San ſo <hi>probably inſtrumentall</hi> for redreſſing thoſe <hi>Arbitrary proceedings in the Houſes, Committees, and others, now complained of, as this</hi> Army now is, and that with the conſent and deſire of ſo many conſiderable Counties, And therefore whether their <hi>refuſall to disband,</hi> or to <hi>re<g ref="char:EOLhyphen"/>move further off from</hi> London, be any <hi>a ſobedience to the Parliaments pre<g ref="char:EOLhyphen"/>ſent juſt commands,</hi> if the men, whom they charge, do by their power of Votes, over-power thoſe, who ſtnding for the publique good of their Country, and not their own private Intereſts, are to be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccoun<g ref="char:EOLhyphen"/>ted
+<pb n="4" facs="tcp:114262:3"/>
+               <!-- PDF PAGE 93 -->the Parliament of <hi>England,</hi> and not any faction in the Houſe. And whether it be <hi>Juſt,</hi> for theſe, who are ſo charged, to have a Vote for the impeding of the proſecution and proofe of ſuch a charge ſo much concerning the publike ſtate. And whether this <hi>refuſall,</hi> be not ſo far from <hi>conjuring up a Spirit of univerſall diſobedience to Parlia<g ref="char:EOLhyphen"/>ments, Magiſtrates,</hi> &amp;c. As it rather tends to conjure downe all ty<g ref="char:EOLhyphen"/>ranicall uſurpations, and factions, combinations in Parliaments, and Arbitrary power in Magiſtrates, when they ſee that the people of the Kingdome are not ſo baſe and ſlaviſh, as to put their necks under ſuch yoaks, and not to vindicate their native liberties, and birth-rights when God puts an opportunity into their hands. And ſo, whether thoſe be <hi>well-wiſhers to the weale and tranquillity of Church and State,</hi> as do not <hi>diſlike, or oppoſe</hi> ſuch opportunities the neglect whereof brings inevitable ruine both to themſelves, with <hi>Church and State.</hi>
+            </p>
+            <p n="3">
+               <label>3. Antiquerie.</label>
+               <lb/>
+Whether <hi>Jack Cades</hi> inſurrection, or <hi>Henry Germines, Percies, and Gorings Treaſon,</hi> in practiſing to bring up the Northern Army towards <hi>London,</hi> to overaw and force the Parliament, can in the judgement of any, who are endued but with common reaſon, and honeſty, be a fit pa<g ref="char:EOLhyphen"/>rallell to equalize this Army with for Rebellion and Treaſon: ſeeing <hi>Cade</hi> was a private Perſon, the Army Generall: <hi>Germin, Percie, Go<g ref="char:EOLhyphen"/>ring</hi> profeſt Enemies to the Parliament, the Army a moſt faithfull preſerver of it. And ſo whether the Author were in his right wits, and not wholly tranſported, when he wrote this. And whether this Army, having firſt ſo often with the hazzard of their lives delivered this Parliament from eminent deſtruction, and now do ſeek to deli<g ref="char:EOLhyphen"/>ver both Parliament and Kingdome from evill Members and Inſtru<g ref="char:EOLhyphen"/>ments, ought to be <hi>Voted as Violaters of the Rights and priviledges of Parliament,</hi> unleſs it be <hi>a Priviledge of Parliament</hi> to be exempted from the peoples complaints for oppreſſion, or that the <hi>Priviledge of Parlia<g ref="char:EOLhyphen"/>ment</hi> be as boundleſs, as Regal Prerogative, ſo as not to be cenſurable, or corrigible by any, in caſe the liberties of the Subject be ſubverted, and juſtice denyed to have a free courſe, and Malefactors, Delinquents, Traitors, maintained with a high hand, when Juſtice is demanded, and for want whereof the Common-weale is deſtroyed, and ſo, whe<g ref="char:EOLhyphen"/>ther this Army in not disbanding, to have Juſtice done, be juſtly cen<g ref="char:EOLhyphen"/>ſured by this Author, as juſtifying the forementioned Traytors, who ſought unjuſtly and tyranically to oppreſs thoſe in the Parliament,
+<pb n="5" facs="tcp:114262:3"/>
+               <!-- PDF PAGE 93 -->who at that time were reputed the moſt faithfull, and the Army on the other ſide, lays a charge only upon thoſe that are unfaithfull in their truſt, and thoſe to be tryed by the Parliament it ſelfe, as their lawfull Judge.</p>
+            <p n="4">
+               <label>4. Antiquerie.</label>
+               <lb/>
+Whether (in Anſwer to the fourth Querie) the Armies not disban<g ref="char:EOLhyphen"/>ding, and doing as they do at this time, all things, and Circumſtances weighed in a juſt ballance, be not neceſſary in a Caſe <hi>of abſolute neceſ<g ref="char:EOLhyphen"/>ſity, for the Kingdomes neceſſary preſervation againſt oppreſſors,</hi> whom they complaine of, when <hi>there is no other remedy:</hi> as the Author confeſ<g ref="char:EOLhyphen"/>eth of the <hi>Netherlands</hi> in the like caſe, And whether the Army, in ſo charging and proſecuting, for Juſtice, do thereby any whit blemiſh their former reputation and fidelity, ſeeing by ſo doing they ſet a Crowne upon all their former glory. And whether, when the juſtice deſired, is done, either the <hi>Parliament</hi> in giving way to juſtice ſhall have cauſe to complaine of the <hi>breach of their Priviledges,</hi>
+               <note place="margin">Fiat Juſti<g ref="char:EOLhyphen"/>tia ruat Coelum.</note> or be in <hi>dan<g ref="char:EOLhyphen"/>ger of adjournment or diſſolution, or the City of pillaging, or the Kingdome of embroyling, or the Malignants to be encouraged, or the well-affected to be grieved, or more miſchieves procured then redreſſed.</hi>
+            </p>
+            <p>And whether if Juſtice be not yeelded unto by the Parliament, be<g ref="char:EOLhyphen"/>fore the Armies disbanding, there be more hope of it after the diſ<g ref="char:EOLhyphen"/>banding; wherin the Author is ſpecially deſired to give as a ſound re<g ref="char:EOLhyphen"/>ſolution upon ſome ſolid reaſons.</p>
+            <p n="5">
+               <label>5. Antiquerie.</label>
+               <lb/>
+Whether this Author hath not more ſedition in his ſpirit and Pen then the <hi>Army diſcontent,</hi> when nothing will ſerve him, but an <hi>equall Armed force</hi> for the <hi>Parliaments, Cities, Kingdomes defence,</hi> while yet he confeſſeth all their preſent demands to be juſt and reaſonable to be granted. And whether, <hi>if granted,</hi> it be not ſuperfluity of malice cauſe<g ref="char:EOLhyphen"/>leſly to ſurmiſe and ſuggeſt jealouſies of <hi>further demands neither hono<g ref="char:EOLhyphen"/>rable, nor reaſonable, and yet dangerous to deny.</hi> And whether he is able to produce any one inſtance of any <hi>Anti-magiſtraticall Principles</hi> hol<g ref="char:EOLhyphen"/>den by ſuch, as he calls <hi>Heterodox Chaplains, Officers and Souldiers</hi> in any of their <hi>Writings,</hi> or <hi>Speeches.</hi> And whether thoſe perſons in the Houſe charged by the Army, may make it their plea, that doing and voting as they do, being <hi>out of Conſcience, (and liberty of Conſcience in ſpeech and vote ſhould be moſt free in Parliament)</hi> they ought to be further proſecuted, and more then others for their Conſcience, ſo as if they
+<pb n="6" facs="tcp:114262:4"/>
+               <!-- PDF PAGE 94 -->vote what is unjuſt and oppreſſive, cut of conſcience, they ſhall go free.</p>
+            <p>And whether it is not to be feared, that after the Army hath pro<g ref="char:EOLhyphen"/>cured the outing of ſome evill Members out of the Houſe, they will labour to <hi>recruite</hi> it with ſuch as are <hi>of their party, as they have done in the Army,</hi> to wit, ſuch as are moſt godly and have proved themſelves moſt faithfull to the Parliament and Kingdome, and ſo <hi>game a power to change the Laws and Government of Church and State, and diſpoſe of all Officer, and places to their own Creatures.</hi> And, whether the <hi>Laws and Government of Church and Stat<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> are <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n all things ſo punctually per<g ref="char:EOLhyphen"/>fect, as they may not ado it in ſome things ſome <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lteration coming nearer to perfection, and the further wel<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-be<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of the Kingdome. And whether <hi>free and impartiall Juſtice</hi> pleaced for, may not confiſt with the ſtanding of the Army, when, if disbanded, injuſtice and op<g ref="char:EOLhyphen"/>preſſion might prove too ſtrong both for <hi>Parliament and Judges,</hi> as is intimated before; and when the Armie is onely <hi>aſſiſtant,</hi> and not <hi>aſ<g ref="char:EOLhyphen"/>ſaylant,</hi> of the freedome and impartinity of publick Juſtice. And whether Juſtice may not be free, and not forced, when both <hi>Parlia<g ref="char:EOLhyphen"/>ment and Judges</hi> are (as they ſhould be) conſcientious, ſo as not to be <hi>biaſſed</hi> by feare or favour. And whether this Author can, out of <hi>Per<g ref="char:EOLhyphen"/>haps,</hi> prove <hi>Members of the Armies party,</hi> to be <hi>juſtly impeached of high<g ref="char:EOLhyphen"/>er crimes, and miſacmenours, then any of their oppoſites,</hi> and yet that the Army will be ſo partiall, as to lay no <hi>impeachment or cenſure</hi> upon them, <hi>contrary to their preſent pretences.</hi>
+            </p>
+            <p n="6">
+               <label>6. Antiquerie,</label>
+               <lb/>
+Whether there be not a grand difference betweene thoſe that in<g ref="char:EOLhyphen"/>forme, and perſwade the people to elect good, honeſt, and faithfull Patriots to be Members of the Houſe, whoſe ſtudies and ends are the wellfare and good of the publick ſtate, and thoſe, who labour for ſuch to be choſen, whoſe ſitting in Parliament is to drive on their owne deſignes, and private intereſſes, and to ſide with others, whoſe mutuall votes may further one anothers private deſignes, while all mens complaints are ſuperciliouſly neglected, and the peoples li<g ref="char:EOLhyphen"/>berties in bonds. And whether it be not requiſite, that ſome good courſe be thought upon, and purſued, for the better informing of the people in their Parliamentary elections, that they looke neither upon greatnes, nor nearenes, but meerly goodnes (in their choiſe, as where depends the weale or woe of the Kingdome. And whe<g ref="char:EOLhyphen"/>ther
+<pb n="7" facs="tcp:114262:4"/>
+               <!-- PDF PAGE 94 -->all this and much more may not be done without the preſeat disbanding of the Army, till a foundation be layed.</p>
+            <p n="7">
+               <label>7 Antiquerie.</label>
+               <lb/>
+Whether thoſe in the Houſes whom the Authour calls Independen<g ref="char:EOLhyphen"/>dants, be more exempted by the Army from examinations about ac<g ref="char:EOLhyphen"/>compts, then others: and if they be not, whether he ought not for this, and for the reſt of his accuſations be brought to publick trial. And whether that which the Authour calies a recruting of the Army without warrant of Parliament, be not a voluntary comming in of the Subjects to ſtand for the vindicating of their juſt liberties. And whether thoſe liſting of Souldiers in and about the City and Parlia<g ref="char:EOLhyphen"/>ment, without publicke authority of Parliament, be not to ſome dangerous deſigne, tending to the maintenance of injuſtice and oppreſſion againſt the juſt deſire of the Army and Country, and ſo to bring a plague upon the Parliament and City. And whether thoſe recrutes, and the Army ſtand ſo much upon their pay, or Arrears, as upon the publick intereſt, if their whole carriage and actions be well examined of, And whether as here again the Authour queries) <hi>the marching up of the Army be againſt Parliaments priviledges,</hi> when therein they ſeeke nothing of the Parliament but juſtice, which ex<g ref="char:EOLhyphen"/>traordinary neceſſity for the vindicating of the Subjects liberties, from oppreſſion, and ſubvertion, hath put them upon, and that ac<g ref="char:EOLhyphen"/>cording the Solemne Govenant, and their Commiſſion from the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p n="8">
+               <label>8 Antiquerie.</label>
+               <lb/>
+Whether here be not another tautology, or repetition of the ſame thing, as before, as in the fourth Antiquerie, where it is anſwered that the Armies not disbanding at preſent, is ſo farre from being a di<g ref="char:EOLhyphen"/>minution of their formerly purchaſed honour, as that it is, (all the circumſtances conſidered) no ſmall addition thereunto. And whe<g ref="char:EOLhyphen"/>ther the Army by all their carriage hitherto hath given the Authour or any other, the leaſt occaſion to ſurmiſe, that they ſet a greater price upon their acquired glory which God yet hath put upon them, then they do upon the ſafety, honour, and wellfare of their Na<g ref="char:EOLhyphen"/>tive Country. And whether their example and practiſe herein bee not as great a teſtimony of their fidelity to their country, and an ho<g ref="char:EOLhyphen"/>nour to true religion, as all they have done hitherto. And whether <hi>Ireland</hi> might not have beene long ere now, by others, then the Army
+<pb n="8" facs="tcp:114262:5"/>
+               <!-- PDF PAGE 95 -->provided for. And whether (had the Army disbanded for <hi>Ireland</hi>) greater ruines might have fallen upon our owne Nation at home, then yet we have ſeene, or knowne. And laſtly, whether the Au<g ref="char:EOLhyphen"/>thour of this, and of all his other queries, ought not by the Parlia<g ref="char:EOLhyphen"/>ment and City, and the whole Kingdome (all thoſe evill and ſad conſequents conſidered, which theſe his queries draw along with them, if not the more wiſely prevented) to be convented before the great Tribunall of the ſtate, there to be tryed, whether theſe his 8 queries be not moſt factious, ſeditious, incendiary, pernicious, and precipitious to the confounding, and ſetting the whole Kingdome if not Kingdomes together by the eares, if Gods great mercy, and the wiſdome of the Parliament, City, and Kingdome providently and prudently prevent not. And whether one cheife means of this prevention be not in a joynt giving away of all theſe for juſtice to be done, the refuſall or deniall whereof might juſtly bring upon us all, that fearefull judgement of the <hi>Benjamites</hi> for refuſing to do juſtice upon thoſe ſons of <hi>Beliall</hi> (Judg. 20.) even an utter extirpation of the whole Tribe: which the Lord in mercy avert from <hi>Eng<g ref="char:EOLhyphen"/>land, Parliament, London.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114262:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 95 -->
+            <pb n="8" facs="tcp:114262:6"/>
+            <!-- PDF PAGE 96 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
